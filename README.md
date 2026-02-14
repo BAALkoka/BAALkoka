@@ -1,3 +1,4 @@
+ git clone https://github.com/BAAL_NIK/ton-assets.git
 ## Hi there 👋
 BSC BEP-20 BNB chein, TON 
 <!--
